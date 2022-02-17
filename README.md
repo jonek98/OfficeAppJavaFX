@@ -37,7 +37,15 @@ Objects are stored in the local Databaese based on singleton pattern.
 --> performing the operation contained in the interface on all objects of the implementing classes
 this interface
 
-# UML Diagram
+# Some screenshots
+![This is an image](/screenshots/menu.jpg)
+
+![This is an image](/screenshots/chief_adding_panel.jpg)
+
+![This is an image](/screenshots/list.jpg)
+
+![This is an image](/screenshots/delete.jpg)
+
 
 
 
