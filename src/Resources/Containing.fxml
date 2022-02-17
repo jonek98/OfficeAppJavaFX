@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="194.0" prefWidth="410.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="put.poznan.ContainingController">
+   <children>
+      <Button fx:id="search" layoutX="159.0" layoutY="126.0" mnemonicParsing="false" onAction="#search" text="search" />
+      <Label layoutX="146.0" layoutY="42.0" text="Type keyword:" />
+      <TextField fx:id="keyword" layoutX="106.0" layoutY="78.0" />
+   </children>
+</AnchorPane>
